@@ -1,0 +1,136 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "ba0c75e17a6787f08d68455d4e4b719edcc78cf6868eb8a44cd699df07f411d7"
+        },
+        "host-environment-markers": {
+            "implementation_name": "cpython",
+            "implementation_version": "3.6.3",
+            "os_name": "posix",
+            "platform_machine": "x86_64",
+            "platform_python_implementation": "CPython",
+            "platform_release": "4.4.0-112-generic",
+            "platform_system": "Linux",
+            "platform_version": "#135-Ubuntu SMP Fri Jan 19 11:48:36 UTC 2018",
+            "python_full_version": "3.6.3",
+            "python_version": "3.6",
+            "sys_platform": "linux"
+        },
+        "pipfile-spec": 6,
+        "requires": {},
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "54bcfe7": {
+            "editable": true,
+            "path": "../"
+        },
+        "absl-py": {
+            "hashes": [],
+            "version": "==0.2.0"
+        },
+        "astor": {
+            "hashes": [],
+            "version": "==0.6.2"
+        },
+        "bleach": {
+            "hashes": [],
+            "version": "==1.5.0"
+        },
+        "gast": {
+            "hashes": [],
+            "version": "==0.2.0"
+        },
+        "grpcio": {
+            "hashes": [],
+            "version": "==1.11.0"
+        },
+        "h5py": {
+            "hashes": [],
+            "version": "==2.7.1"
+        },
+        "html5lib": {
+            "hashes": [],
+            "version": "==0.9999999"
+        },
+        "keras": {
+            "hashes": [],
+            "version": "==2.1.6"
+        },
+        "markdown": {
+            "hashes": [],
+            "version": "==2.6.11"
+        },
+        "numpy": {
+            "hashes": [],
+            "version": "==1.14.3"
+        },
+        "pandas": {
+            "hashes": [],
+            "version": "==0.22.0"
+        },
+        "plac": {
+            "hashes": [],
+            "version": "==0.9.6"
+        },
+        "protobuf": {
+            "hashes": [],
+            "version": "==3.5.2.post1"
+        },
+        "python-dateutil": {
+            "hashes": [],
+            "version": "==2.7.3"
+        },
+        "pytz": {
+            "hashes": [],
+            "version": "==2018.4"
+        },
+        "pyyaml": {
+            "hashes": [],
+            "version": "==3.12"
+        },
+        "scikit-learn": {
+            "hashes": [],
+            "version": "==0.19.1"
+        },
+        "scipy": {
+            "hashes": [],
+            "version": "==1.1.0"
+        },
+        "six": {
+            "hashes": [],
+            "version": "==1.11.0"
+        },
+        "tensorboard": {
+            "hashes": [],
+            "version": "==1.8.0"
+        },
+        "tensorflow": {
+            "hashes": [],
+            "version": "==1.8.0"
+        },
+        "termcolor": {
+            "hashes": [],
+            "version": "==1.1.0"
+        },
+        "tqdm": {
+            "hashes": [],
+            "version": "==4.23.3"
+        },
+        "werkzeug": {
+            "hashes": [],
+            "version": "==0.14.1"
+        },
+        "wheel": {
+            "hashes": [],
+            "version": "==0.31.0"
+        }
+    },
+    "develop": {}
+}

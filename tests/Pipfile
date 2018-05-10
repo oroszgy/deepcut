@@ -1,0 +1,21 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+numpy = "*"
+pandas = "*"
+scikit-learn = "*"
+tensorflow = "*"
+keras = ">=2.0.0"
+"54bcfe7" = {path = "../", editable = true}
+plac = "*"
+tqdm = "*"
+
+
+[dev-packages]
+
